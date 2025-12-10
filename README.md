@@ -3,7 +3,7 @@
 
 Bu repozitoriya, telekommunikasiya şirkətinin geniş məlumat dəsti üzərində aparılmış müştəri tərketmə (Churn) analizinin nəticələrini və istifadə edilmiş hesabat fayllarını ehtiva edir.
 
-## 🎯 Layihənin Məqsədi
+## 🎯 Layihənin məqsədi
 
 Layihənin əsas məqsədi Power BI istifadə edərək müştəri itkisinin (Churn) əsas faktorlarını aşkar etmək, itki riskini qiymətləndirmək və müştəri saxlama (retention) üçün təkliflər irəli sürməkdir.
 
@@ -18,7 +18,7 @@ Analiz olunan dövrdə 1869 müştəri xidməti tərk edib.
 ✔️ Elektron çek (1071 nəfər) ən yüksək churn sayına malik ödəniş metodudur.
 
 
-## 📂 Repozitoriyanın Strukturu
+## 📂 Repozitoriyanın strukturu
 
 * `Churn (1).pbix`: Analiz nəticələrini və vizuallaşdırmaları ehtiva edən əsas Power BI faylı.
 * `WA_FN_Used...`: Analiz üçün istifadə edilmiş xam məlumat (raw data) faylı.
