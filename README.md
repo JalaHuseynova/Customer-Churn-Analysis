@@ -26,7 +26,7 @@ Analiz olunan dövrdə 1869 müştəri xidməti tərk edib.
 
 ## 🖼️ Dashboard-un görünüşü
 
-Dashboard-u vizual olaraq görmək üçün [Churn.PNG]
+Dashboard-u vizual olaraq görmək üçün [Churn](Churn.PNG)
 
 
 
